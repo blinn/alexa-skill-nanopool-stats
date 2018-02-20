@@ -1,0 +1,16 @@
+{
+  "name": "alexa-skill-nanopool-stats",
+  "version": "1.0.0",
+  "description": "Alexa Skill to return Nanopool statistics to user",
+  "main": "index.js",
+  "author": "Brett L.",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blinn/repository.git"
+  }
+}
